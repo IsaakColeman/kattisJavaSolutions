@@ -3,7 +3,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.regex.*;
 
-class AMC {
+class ACM {
     public static void main(String[] arg) {
         Scanner in = new Scanner(System.in);
         String line = in.nextLine();
